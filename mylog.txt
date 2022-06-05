@@ -1,0 +1,9 @@
+may 30, 2022 10:24:41 PM ejem_logger.ejemploLog main
+INFORMACIÓN: Esto es una información
+
+may 30, 2022 10:24:41 PM ejem_logger.ejemploLog main
+ADVERTENCIA: Este es un warning
+
+may 30, 2022 10:24:41 PM ejem_logger.ejemploLog main
+GRAVE: Este es un error grave
+
